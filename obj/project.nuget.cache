@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEOSA7LDAB71Ef7MYwj/ZV2NS/vuPNxS5DZr0bsZ9Vtjn7B20wZUgQXAyNdMboi7qU9U62XdvGK+tt4PStY68A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonatasebeatriz\\source\\repos\\Projects\\projetosNovoCurso\\didaticos.redimensionador\\didaticos.redimensionador\\didaticos.redimensionador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonatasebeatriz\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\jonatasebeatriz\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
